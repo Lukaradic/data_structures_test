@@ -1,0 +1,16 @@
+{
+  "name": "data_strucutres",
+  "version": "1.0.0",
+  "description": "practice test and data structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "author": "Luka",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.16.5",
+    "jest": "^27.4.5"
+  }
+}
